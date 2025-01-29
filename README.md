@@ -22,6 +22,7 @@ For example run this code:
 </body>
 </html>
 
+
 #css:
 body {
     font-family: Arial, sans-serif;
@@ -52,6 +53,8 @@ p {
     font-size: 18px;
     color: #333;
 }
+
+
 
 #js:
 document.getElementById("changeTextButton").addEventListener("click", function() {
